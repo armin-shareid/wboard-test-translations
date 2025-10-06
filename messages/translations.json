@@ -931,7 +931,7 @@
       "both": "Full IDV",
       "applicantId": "Applicant ID",
       "scan_qr_code": "Scan the QR code with your mobile device",
-      "loading": "Loading...",
+      "loading": "Chargement...",
       "auth_qr_code": "Authentication QR Code",
       "success": "Success!",
       "failure": "Failure",
